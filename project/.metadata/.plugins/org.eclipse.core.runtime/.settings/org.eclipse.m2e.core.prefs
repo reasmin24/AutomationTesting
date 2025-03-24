@@ -1,0 +1,7 @@
+eclipse.m2.WorkspacelifecycleMappingsLocation=C\:/Users/Remedy  IT/Desktop/work/project/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+eclipse.m2.defaultRuntime=apache-maven-3.9.9
+eclipse.m2.runtimes=apache-maven-3.9.9
+eclipse.m2.runtimesNodes/apache-maven-3.9.9/location=C\:\\Windows\\apache-maven-3.9.9
+eclipse.m2.runtimesNodes/apache-maven-3.9.9/type=EXTERNAL
+eclipse.m2.unkownMojoExecutionAction=execute
+eclipse.preferences.version=1

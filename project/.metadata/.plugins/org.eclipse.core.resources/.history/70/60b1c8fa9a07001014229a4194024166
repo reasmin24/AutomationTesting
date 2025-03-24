@@ -1,0 +1,10 @@
+package gettingStarted;
+
+import com.microsoft.playwright.Playwright;
+
+
+public class PlaywriteTest {
+
+	public static void main(String[] args) {
+		Playwrite pw=Playwright.create();
+}
